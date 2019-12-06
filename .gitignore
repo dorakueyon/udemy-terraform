@@ -1,0 +1,9 @@
+secrets.env
+*.swp
+.terraform
+*.tfvars
+mykey
+mykey.pub
+
+*.tfstate
+*.tfstate.*
